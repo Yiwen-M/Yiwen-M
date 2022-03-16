@@ -7,7 +7,6 @@
 - 🎓 UW Class of 2020
 - 🔍 Actively looking for full-time software development position
 - 📙 I’m currently learning more about Redux and Node.js
-- 🤝 I’m looking to collaborate with other content creators
 
 **Currently working on:**
 
