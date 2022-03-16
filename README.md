@@ -4,7 +4,7 @@
 
 <img align="right" alt="Yiwen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yiwen-M&show_icons=true&hide_border=true&hide_rank=true&theme=radical" />
 
-* 🎓 UW Class of 2020
+- 🎓 UW Class of 2020
 - 🔍 Actively looking for full-time software development position
 - 📙 I’m currently learning more about Redux and Node.js
 - 🤝 I’m looking to collaborate with other content creators
