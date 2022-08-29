@@ -17,7 +17,10 @@
 
 <br />
 
-**Currently working on:** <img align="right" alt="Yiwen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yiwen-M&show_icons=true&hide_rank=true&theme=radical" />
+**Currently Working on:** <img align="right" alt="Yiwen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yiwen-M&show_icons=true&hide_rank=true&theme=radical" style="height:200px;" />
+- 🎪 ***City Feed***: An React based Instagram liked web application providing info and experience sharing service
+
+**Past Projects**:
 
 - 🚂 ***Tour Exploring***: An Express based web application providing tour booking service
 - 🍔 ***Recipe Shopping List***: An Angular based web application providing recipe ingredients shopping service
