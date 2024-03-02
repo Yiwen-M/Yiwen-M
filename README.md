@@ -18,9 +18,13 @@
 
 **Currently Working on:** <img align="right" alt="Yiwen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yiwen-M&show_icons=true&hide_rank=true&theme=radical" style="height:200px;" />
 
+Building the AI-powered chatbot through the integration of LLaMA 2 13B LLM with LlamaIndex,  focusing on storing and processing private data within the secure confines of the Weaviate vector database.
+
+<br />
+
 **Past Projects**:
 
-- 🎪 ***City Feed***: An React based Instagram-liked web application providing info and experience-sharing service
+- 🎪 ***City Feed***: An React-based Instagram-liked web application providing info and experience-sharing service
 - 🚂 ***Tour Exploring***: An Express-based web application providing tour booking service
 - 🍔 ***Recipe Shopping List***: An Angular-based web application providing recipe ingredients shopping service
 - 🧸 ***Pet Parent Pro***: A React-based web application providing pet boarding service
